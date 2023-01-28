@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mwbie
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me @mwni_slh
+- 📫 How to reach me @mwbi_slh
 
 <!---
 Mwbie/Mwbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
